@@ -67,10 +67,10 @@ ol ul {
   margin: 0;
   padding: 0;
 
-display: flex;
-justify-content: space-between;
-align-items: center;
-align-self: stretch;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  align-self: stretch;
 }
 
 ul a {
@@ -92,10 +92,10 @@ ul a img {
 }
 
 .btn {
- background-color: #6f00e7;
- color: #fff;
- text-decoration: none;
- border-radius: 6em;
- padding: .5em 1.5em .7em;
- font-weight: bold;
+  background-color: #6f00e7;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 6em;
+  padding: .5em 1.5em .7em;
+  font-weight: bold;
 }
